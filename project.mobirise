@@ -28,7 +28,7 @@
         "isGhostButtonBorder": true,
         "underlinedLinks": true,
         "isAnimatedOnScroll": false,
-        "isScrollToTopButton": true
+        "isScrollToTopButton": false
       },
       "titlePreset": "Small Business",
       "nameSelectPreset": "small",
@@ -59,7 +59,7 @@
       }
     ],
     "favicon": false,
-    "mbrsiteDomain": "ny5wi4npse",
+    "mbrsiteDomain": "uymeasq85q",
     "imageResize": false,
     "usedWebp": false,
     "robotsSwitcher": false,
@@ -70,7 +70,9 @@
     "gdpr": false,
     "uniqCompNum": 8,
     "versionPublish": "6.0.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
