@@ -1593,10 +1593,21 @@ a {
 .cid-uQ1Na0wbC7 .content-head {
   max-width: 800px;
 }
+.cid-uQoYwwvyWR {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-uQoYwwvyWR .line {
+  background-color: #6592e6;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
 .cid-uQ33bWR9zM {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-color: #f7f7f7;
 }
 .cid-uQ33bWR9zM .item-subtitle {
   line-height: 1.2;
